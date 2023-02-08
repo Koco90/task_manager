@@ -6,7 +6,7 @@ This task manager will allow you to do the following:
 + Register a user
 + Add a task
 + View all tasks
-+ View my taskS
++ View my tasks
 + Generate reports
 + Display statistics
 + Exit
@@ -19,3 +19,6 @@ This task manager will allow you to do the following:
 ## Login details for the admin
 + username: admin
 + password: password
+
+## Background
+This was a task set during my data science bootcamp. An initial skeleton of the programme was provided and I have added on more functionality.
